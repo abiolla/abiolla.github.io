@@ -1,8 +1,8 @@
 # Quant Analyst
 
 ### Education
-Mathematics, M.Sc /n
-Statistics, B.Tech
+- Mathematics, M.Sc 
+- Statistics, B.Tech
 
 ### Work Experience
 Quant Analyst @ Bank of America
