@@ -1,29 +1,26 @@
 # Quant Analyst | Statistician
 
-#### Technical Skills: Python, SQL, R, SAS
+#### Technical Skills: Python, SQL, R, SAS, MINITAB
 
 ## Education
-- M.S., Mathematics   | Georgia State University, Atlanta (_Dec 2022_)								       		
-- B.Tech., Statistics	| Federal University of Technology, Akure. Nigeria (_Nov 2018_)	 			        		
+- M.S. Mathematics | Georgia State University, Atlanta (_Dec 2022_)								       		
+- B.Tech. Statistics | Federal University of Technology, Akure (_Nov 2018_)	 			        		
 
 
 ## Work Experience
 **Quant Analyst @ Bank of America (_February 2022 - Present_)**
-- Overseeing the analysis of potential market manipulation cases, including spoofing, marking the close, prearranged trading, and aggressive trading, ensuring stringent adherence to market fairness and integrity standards.
-- Employed sophisticated quantitative methodologies for the detection and thorough investigation of suspicious trading activities, playing a pivotal role in sustaining a transparent and equitable market landscape.
+- Overseeing the analysis of potential market manipulation cases, including spoofing, marking the close, and prearranged trading, ensuring adherence to market fairness and integrity standards.
+- Employed sophisticated quantitative methodologies for the detection and investigation of suspicious trading activities.
 - Improved stakeholder decision-making through advanced data visualization skills, effectively communicating complex financial insights.
 
 **Quant Analyst Intern @ Bank of America (_June 2021 - August 2021_)**
 - Developed an innovative quantitative model to assess the impact of green building ratings on commercial real estate (CRE) rent rates, enhancing the accuracy of market-level forecasting in the context of climate transition risk.
-- Conducted a comprehensive analysis to determine how rental rates vary among green buildings with different LEED ratings, providing key insights to guide investment strategies.
-- Expertly utilized Python programming language for data analysis and visualization, leading to improvement in data processing efficiency for commercial real estate properties.
-
+- Conducted a comprehensive analysis to determine how rental rates vary among green buildings with different LEED ratings, providing key insights to guide investment strategies
 
 **Graduate Teaching Assistant @ Georgia State University (_January 2021 - December 2022_)**
 - Enhanced student comprehension in Linear Algebra and Calculus through tailored guidance and support, addressing individual queries and facilitating problem-solving skills.
 - Orchestrated and led review sessions in Mathematics and Statistics, reinforcing key concepts and elevating students' understanding and problem-solving abilities.
-- Fostered a collaborative academic environment by facilitating group discussions and study sessions, promoting interactive learning among students.
-- Provided essential support in administrative tasks for faculty, including grading and organizing course materials, while offering personalized tutoring and mentoring to students to overcome coursework challenges.
+
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
