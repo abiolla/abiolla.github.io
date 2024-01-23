@@ -1,7 +1,7 @@
 # Quant Analyst
 
 ### Education
-Mathematics, M.Sc
+Mathematics, M.Sc /n
 Statistics, B.Tech
 
 ### Work Experience
